@@ -1,1 +1,2 @@
-hellp git
+hello git
+this file is practice file for git hub using git bash
